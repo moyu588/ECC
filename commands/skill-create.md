@@ -1,6 +1,6 @@
 ---
 name: skill-create
-description: Analyze local git history to extract coding patterns and generate SKILL.md files. Local version of the Skill Creator GitHub App.
+description: "分析本地 git 历史提取编码模式并生成 SKILL.md 文件。Skill Creator GitHub App 的本地版本。"
 allowed-tools: ["Bash", "Read", "Write", "Grep", "Glob"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: architecture-decision-records
-description: Capture architectural decisions made during Claude Code sessions as structured ADRs. Auto-detects decision moments, records context, alternatives considered, and rationale. Maintains an ADR log so future developers understand why the codebase is shaped the way it is.
+description: "将 Claude Code 会话中做出的架构决策记录为结构化 ADR。自动检测决策时刻，记录上下文、备选方案与理由，维护 ADR 日志，让后来的开发者理解代码库为何是现在这个样子。"
 metadata:
   origin: ECC
 ---

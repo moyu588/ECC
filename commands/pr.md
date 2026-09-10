@@ -1,5 +1,5 @@
 ---
-description: "Create a GitHub PR from current branch with unpushed commits — discovers templates, analyzes changes, pushes"
+description: "从当前分支的未推送提交创建 GitHub PR——发现模板、分析改动、推送。"
 argument-hint: "[base-branch] (default: main)"
 ---
 

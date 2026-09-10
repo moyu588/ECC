@@ -1,6 +1,6 @@
 ---
 name: repo-scan
-description: Bootstrap pointer that installs the external repo-scan skill from a pinned, reviewable commit. Use when repo-scan must be installed before running its cross-stack source-code asset audit; this ECC pointer does not perform the audit itself.
+description: "引导指针：从固定的、可审查的 commit 安装外部 repo-scan skill。当必须先安装 repo-scan 才能运行其跨技术栈源码资产审计时使用；此 ECC 指针本身不执行审计。"
 metadata:
   origin: community
 ---

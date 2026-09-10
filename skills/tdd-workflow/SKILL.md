@@ -1,6 +1,6 @@
 ---
 name: tdd-workflow
-description: Use this skill when writing new features, fixing bugs, or refactoring code. Enforces test-driven development with 80%+ coverage including unit, integration, and E2E tests.
+description: "在编写新功能、修复 bug 或重构代码时使用此 skill。强制执行测试驱动开发，覆盖率 80%+，包含单元、集成与 E2E 测试。"
 argument-hint: <path/to/*.plan.md>
 metadata:
   origin: ECC

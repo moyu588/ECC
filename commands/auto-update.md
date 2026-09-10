@@ -1,5 +1,5 @@
 ---
-description: Pull the latest ECC repo changes and reinstall the current managed targets.
+description: "拉取 ECC 仓库最新改动，并重新安装当前受管的目标。"
 disable-model-invocation: true
 ---
 

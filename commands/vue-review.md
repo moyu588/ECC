@@ -1,5 +1,5 @@
 ---
-description: Comprehensive Vue.js code review for Composition API correctness, reactivity, composable patterns, template security, accessibility, and Vue-specific performance. Invokes the vue-reviewer agent (and typescript-reviewer alongside on .vue/.ts changes).
+description: "全面的 Vue.js 代码评审：Composition API 正确性、响应性、composable 模式、模板安全、无障碍与 Vue 特有性能。调用 vue-reviewer agent（.vue/.ts 改动会同时调用 typescript-reviewer）。"
 ---
 
 # Vue Code Review

@@ -1,5 +1,5 @@
 ---
-description: Claim an epic issue, stamp coordination state, and sync local ownership.
+description: "认领一个 epic issue，写入协调状态并同步本地归属。"
 ---
 
 # /epic-claim

@@ -1,6 +1,6 @@
 ---
 name: unified-memory
-description: Share durable, inspectable context and handoffs between Claude, Codex, Hermes, Cursor, OpenCode, and other agents through the local ECC Memory Vault. Use when an agent must save work state, transfer context, resume another agent's task, or search shared project knowledge.
+description: "通过本地 ECC Memory Vault，在 Claude、Codex、Hermes、Cursor、OpenCode 及其他 agents 之间共享持久、可检查的上下文与工作交接。当 agent 需要保存工作状态、转移上下文、接续另一个 agent 的任务或搜索共享项目知识时使用。"
 metadata:
   origin: ECC
 ---

@@ -1,6 +1,6 @@
 ---
 name: continuous-learning
-description: "[DEPRECATED - use continuous-learning-v2] Legacy v1 stop-hook skill extractor. v2 is a strict superset with instinct-based, project-scoped, hook-reliable learning. Do not invoke v1: when continuous learning, session learning, or pattern extraction is requested, route to continuous-learning-v2 instead."
+description: "[已弃用——请使用 continuous-learning-v2] 旧版 v1 stop-hook skill 提取器。v2 是其严格超集，具备基于 instinct、项目作用域、hook 可靠的学习能力。不要调用 v1：当请求持续学习、会话学习或模式提取时，改走 continuous-learning-v2。"
 metadata:
   origin: ECC
 ---

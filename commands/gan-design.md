@@ -1,5 +1,5 @@
 ---
-description: Run a generator/evaluator design loop for frontend or visual work with bounded iterations and scoring.
+description: "为前端或视觉工作运行生成器/评估器设计循环，限定迭代次数并打分。"
 ---
 
 Parse the following from $ARGUMENTS:

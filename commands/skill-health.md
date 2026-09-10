@@ -1,6 +1,6 @@
 ---
 name: skill-health
-description: Show skill portfolio health dashboard with charts and analytics
+description: "显示 skill 组合健康度仪表盘，含图表与分析。"
 command: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: verification-loop
-description: "A comprehensive verification system for Claude Code sessions. Use when verifying a Claude Code session's work before claiming it is complete."
+description: "面向 Claude Code 会话的综合验证系统。在宣称会话工作完成之前进行验证时使用。"
 license: MIT
 metadata:
   origin: ECC

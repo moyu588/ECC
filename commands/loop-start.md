@@ -1,5 +1,5 @@
 ---
-description: Start a managed autonomous loop pattern with safety defaults and explicit stop conditions.
+description: "启动受管自治循环（autonomous loop），带安全默认值与明确的停止条件。"
 ---
 
 # Loop Start Command

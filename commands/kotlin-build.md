@@ -1,5 +1,5 @@
 ---
-description: Fix Kotlin/Gradle build errors, compiler warnings, and dependency issues incrementally. Invokes the kotlin-build-resolver agent for minimal, surgical fixes.
+description: "增量修复 Kotlin/Gradle 构建错误、编译器警告与依赖问题。调用 kotlin-build-resolver agent 做最小化精准修复。"
 ---
 
 # Kotlin Build and Fix

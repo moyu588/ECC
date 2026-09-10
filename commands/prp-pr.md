@@ -1,5 +1,5 @@
 ---
-description: "Alias of /pr for the PRP workflow series. Use when creating a pull request mid-PRP workflow; otherwise use /pr."
+description: "PRP 工作流系列中 /pr 的别名。在 PRP 工作流中途创建 Pull Request 时使用；其他情况请使用 /pr。"
 argument-hint: "[base-branch] (default: main)"
 ---
 

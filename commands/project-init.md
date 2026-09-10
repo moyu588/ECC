@@ -1,5 +1,5 @@
 ---
-description: Detect a project's stack and produce a dry-run ECC onboarding plan using the repository's install manifests and stack mappings.
+description: "检测项目技术栈，基于仓库的安装 manifest 与技术栈映射生成 dry-run 的 ECC 接入计划。"
 ---
 
 # /project-init

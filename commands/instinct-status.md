@@ -1,6 +1,6 @@
 ---
 name: instinct-status
-description: Show learned instincts (project + global) with confidence
+description: "显示已学习的 instincts（项目 + 全局）及其置信度。"
 command: true
 ---
 

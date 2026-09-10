@@ -1,5 +1,5 @@
 ---
-description: Orchestrate bootstrapping a working MVP from a design/spec doc — ingest, slice, scaffold, TDD, review, gated commit (reuses the GAN harness). Wrapper for the orch-build-mvp skill.
+description: "编排从设计/规格文档引导出可运行 MVP——摄取、切片、脚手架、TDD、评审、带门禁的提交（复用 GAN harness）。是 orch-build-mvp skill 的包装。"
 ---
 
 # /orch-build-mvp

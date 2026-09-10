@@ -1,5 +1,5 @@
 ---
-description: Mark epic review requested, approved, or changes requested.
+description: "将 epic 标记为待评审、已批准或需修改。"
 ---
 
 # /epic-review

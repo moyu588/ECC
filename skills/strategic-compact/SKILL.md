@@ -1,6 +1,6 @@
 ---
 name: strategic-compact
-description: Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction. Use when a session is approaching a context limit and a task phase is a natural place to compact.
+description: "建议在逻辑间歇点手动压缩上下文，让上下文穿越任务阶段，而不是依赖随意的自动压缩。当会话接近上下文限制、且任务阶段边界是天然压缩点时使用。"
 metadata:
   origin: ECC
 ---

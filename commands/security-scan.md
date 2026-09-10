@@ -1,5 +1,5 @@
 ---
-description: Run AgentShield against agent, hook, MCP, permission, and secret surfaces.
+description: "对 agent、hook、MCP、权限与密钥暴露面运行 AgentShield 扫描。"
 agent: ecc:security-reviewer
 subtask: true
 ---

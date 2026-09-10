@@ -1,5 +1,5 @@
 ---
-description: Run a generator/evaluator build loop for implementation tasks with bounded iterations and scoring.
+description: "为实现任务运行生成器/评估器（GAN 式）构建循环，限定迭代次数并打分。"
 ---
 
 Parse the following from $ARGUMENTS:

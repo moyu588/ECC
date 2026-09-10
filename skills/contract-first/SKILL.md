@@ -1,6 +1,6 @@
 ---
 name: contract-first
-description: Use when multiple consumers and providers must evolve an API or event schema without field drift, integration surprises, or one side silently redefining the interface.
+description: "当多个消费方与提供方需要共同演进 API 或事件 schema，且必须避免字段漂移、集成意外或某一方悄悄重定义接口时使用。"
 metadata:
   origin: ECC
 ---

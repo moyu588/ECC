@@ -1,6 +1,6 @@
 ---
 name: skill-scout
-description: Search existing local, marketplace, GitHub, and web skill sources before creating a new skill. Use when the user wants to create, build, fork, or find a skill for a workflow.
+description: "在创建新 skill 之前，先搜索本地、marketplace、GitHub 与网络上已有的 skill 来源。当用户想为某工作流创建、构建、fork 或寻找 skill 时使用。"
 metadata:
   origin: community
 ---

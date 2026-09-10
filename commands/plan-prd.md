@@ -1,5 +1,5 @@
 ---
-description: "Generate a lean, problem-first PRD and hand off to /plan for implementation planning."
+description: "生成精简的、问题优先的 PRD，并交给 /plan 做实现规划。"
 argument-hint: "[product/feature idea] (blank = start with questions)"
 ---
 

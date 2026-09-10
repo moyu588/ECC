@@ -1,6 +1,6 @@
 ---
 name: ecc-recipes
-description: "Map a described workflow to the right ECC command-GROUP with run-order and stop condition, and browse all command-group recipe families. Adds a family-grouping + run-order + when-to-stop layer on top of the flat command catalog. Advisory only. TRIGGER when the user says which commands for X, what command group runs X, show ECC recipes, list ECC pipelines, or how do I run a workflow with ECC. DO NOT TRIGGER when the user wants the task executed directly, wants a single-command deep doc (use ecc-guide), or wants a draft prompt rewritten (use prompt-optimizer)."
+description: "把描述的工作流映射到合适的 ECC 命令组（command-GROUP），给出运行顺序与停止条件，并可浏览所有命令组配方家族。在扁平的命令目录之上增加家族分组 + 运行顺序 + 何时停止的一层。仅提供建议。触发时机：用户问“X 用哪些命令”、“哪个命令组跑 X”、“看看 ECC recipes”、“列出 ECC 流水线”、“如何用 ECC 跑一个工作流”。不要触发：用户想直接执行任务、想要单命令深度文档（用 ecc-guide）、或想改写提示词草稿（用 prompt-optimizer）。"
 argument-hint: <workflow description | empty=list all>
 origin: community
 author: KyawZinLatt

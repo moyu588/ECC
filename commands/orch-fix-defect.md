@@ -1,5 +1,5 @@
 ---
-description: Orchestrate fixing a bug — reproduce it as a failing regression test, fix to green, review, gated commit. Wrapper for the orch-fix-defect skill.
+description: "编排缺陷修复——先复现为失败的回归测试，修复至通过，评审、带门禁的提交。是 orch-fix-defect skill 的包装。"
 ---
 
 # /orch-fix-defect

@@ -1,5 +1,5 @@
 ---
-description: Fix C++ build errors, CMake issues, and linker problems incrementally. Invokes the cpp-build-resolver agent for minimal, surgical fixes.
+description: "增量修复 C++ 构建错误、CMake 问题与链接器问题。调用 cpp-build-resolver agent 做最小化精准修复。"
 ---
 
 # C++ Build and Fix

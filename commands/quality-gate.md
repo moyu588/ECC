@@ -1,5 +1,5 @@
 ---
-description: Run the ECC formatter quality gate for a single file and report remediation steps.
+description: "对单个文件运行 ECC 格式化质量门禁，并报告修复步骤。"
 ---
 
 # Quality Gate Command

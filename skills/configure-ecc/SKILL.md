@@ -1,6 +1,6 @@
 ---
 name: configure-ecc
-description: Guide ECC installation, update, or reconfiguration from inside Claude Code, Codex, or Kimi while respecting each harness's real plugin, scope, and hook capabilities.
+description: "在 Claude Code、Codex 或 Kimi 内部引导 ECC 的安装、更新或重配置，同时尊重每个 harness 真实的插件、作用域与 hook 能力。"
 metadata:
   origin: ECC
 ---

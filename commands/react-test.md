@@ -1,5 +1,5 @@
 ---
-description: Enforce TDD workflow for React. Write React Testing Library tests first (behavior-focused, accessibility-first), then implement components. Detects Vitest or Jest and verifies coverage targets.
+description: "为 React 强制执行 TDD 工作流：先写 React Testing Library 测试（行为导向、无障碍优先）再实现组件。自动检测 Vitest 或 Jest 并验证覆盖率目标。"
 ---
 
 # React TDD Command

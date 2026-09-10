@@ -1,5 +1,5 @@
 ---
-description: Orchestrate a behavior-preserving refactor — confirm tests green, restructure without changing behavior, keep green, review, gated commit. Wrapper for the orch-refine-code skill.
+description: "编排保持行为不变的重构——确认测试通过，重构而不改变行为，保持通过，评审、带门禁的提交。是 orch-refine-code skill 的包装。"
 ---
 
 # /orch-refine-code

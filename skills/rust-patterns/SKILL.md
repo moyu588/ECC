@@ -1,6 +1,6 @@
 ---
 name: rust-patterns
-description: Idiomatic Rust patterns, ownership, error handling, traits, concurrency, and best practices for building safe, performant applications. Use when writing or reviewing Rust code and ownership, error handling, traits, or concurrency is in question.
+description: "地道的 Rust 模式：所有权、错误处理、trait、并发，以及构建安全高性能应用的最佳实践。在编写或评审 Rust 代码、涉及所有权/错误处理/trait/并发问题时使用。"
 metadata:
   origin: ECC
 ---

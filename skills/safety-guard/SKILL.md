@@ -1,6 +1,6 @@
 ---
 name: safety-guard
-description: Use this skill to prevent destructive operations when working on production systems or running agents autonomously.
+description: "用此 skill 在操作生产系统或自治运行 agents 时防止破坏性操作。"
 metadata:
   origin: ECC
 ---

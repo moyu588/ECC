@@ -1,6 +1,6 @@
 ---
 name: skill-stocktake
-description: "Use when auditing Claude skills and commands for quality. Supports Quick Scan (changed skills only) and Full Stocktake modes with sequential subagent batch evaluation."
+description: "在审计 Claude skills 与 commands 质量时使用。支持快速扫描（仅变更过的 skills）与全面盘点两种模式，用顺序子 agent 分批评估。"
 metadata:
   origin: ECC
 ---

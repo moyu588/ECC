@@ -1,5 +1,5 @@
 ---
-description: Comprehensive PR review using specialized agents
+description: "使用专门的 agents 进行全面的 PR 评审。"
 ---
 
 Run a comprehensive multi-perspective review of a pull request.

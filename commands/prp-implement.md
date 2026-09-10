@@ -1,5 +1,5 @@
 ---
-description: Execute an implementation plan with rigorous validation loops
+description: "以严格的验证循环执行实现计划。"
 argument-hint: <path/to/plan.md>
 ---
 

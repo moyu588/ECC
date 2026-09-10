@@ -1,6 +1,6 @@
 ---
 name: coding-standards
-description: Baseline cross-project coding conventions for naming, readability, immutability, and code-quality review. Use detailed frontend or backend skills for framework-specific patterns. Use when reviewing code quality or naming with no framework-specific skill that applies.
+description: "跨项目基线编码规范：命名、可读性、不可变性与代码质量评审。框架特定模式请用更细的前端/后端 skill。在没有适用的框架专属 skill 时，用于评审代码质量或命名。"
 metadata:
   origin: ECC
 ---

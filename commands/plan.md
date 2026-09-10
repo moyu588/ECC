@@ -1,5 +1,5 @@
 ---
-description: Restate requirements, assess risks, and create step-by-step implementation plan. WAIT for user CONFIRM before touching any code.
+description: "复述需求、评估风险、生成分步实现计划。在动任何代码之前等待用户确认（CONFIRM）。"
 argument-hint: "[feature description | path/to/*.prd.md]"
 ---
 

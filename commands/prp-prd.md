@@ -1,5 +1,5 @@
 ---
-description: "Interactive PRD generator - problem-first, hypothesis-driven product spec with back-and-forth questioning"
+description: "交互式 PRD 生成器——问题优先、假设驱动的产品规格，通过多轮提问完成。"
 argument-hint: "[feature/product idea] (blank = start with questions)"
 ---
 

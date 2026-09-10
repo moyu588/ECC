@@ -1,5 +1,5 @@
 ---
-description: Generate a local Claude Code cost report from the ECC cost-tracker metrics log.
+description: "基于 ECC cost-tracker 指标日志生成本地 Claude Code 成本报告。"
 argument-hint: [csv]
 ---
 

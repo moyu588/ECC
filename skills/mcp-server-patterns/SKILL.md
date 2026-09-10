@@ -1,6 +1,6 @@
 ---
 name: mcp-server-patterns
-description: Build MCP servers with Node/TypeScript SDK — tools, resources, prompts, Zod validation, stdio vs Streamable HTTP. Use Context7 or official MCP docs for latest API. Use when building or debugging an MCP server — tools, resources, prompts, validation, or transport choice.
+description: "用 Node/TypeScript SDK 构建 MCP server：tools、resources、prompts、Zod 校验、stdio vs Streamable HTTP。最新 API 请查 Context7 或 MCP 官方文档。在构建或调试 MCP server（tools、resources、prompts、校验或传输选型）时使用。"
 metadata:
   origin: ECC
 ---

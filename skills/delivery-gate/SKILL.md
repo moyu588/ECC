@@ -1,6 +1,6 @@
 ---
 name: delivery-gate
-description: Stop hook that blocks Claude from finishing until quality checks pass. Detects rationalization patterns (surface text heuristics), stale learning logs (filesystem mtime), and low disk space. Complements self-audit by mechanically enforcing learning capture habits. Use when Claude should be mechanically blocked from declaring work finished before quality checks and learning capture actually pass.
+description: "阻止 Claude 在质量检查通过前结束工作的 stop hook。检测合理化借口模式（表层文本启发式）、过期学习日志（文件系统 mtime）与磁盘空间不足。以机械化方式强制执行学习沉淀习惯，与自我审计互补。当需要机械性阻止 Claude 在质量检查与学习沉淀真正通过前宣称工作完成时使用。"
 metadata:
   version: 1.1.1
   origin: ECC

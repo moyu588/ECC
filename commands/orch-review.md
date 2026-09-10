@@ -1,5 +1,5 @@
 ---
-description: Run the orch-review native Workflow over a diff (local changes or a GitHub PR) and report blocking vs advisory findings. Surface for the orch-review workflow.
+description: "对一个 diff（本地改动或 GitHub PR）运行 orch-review 原生 Workflow，报告阻塞性与建议性发现。orch-review workflow 的入口。"
 argument-hint: [pr-number | pr-url | blank for local uncommitted changes]
 ---
 

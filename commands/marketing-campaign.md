@@ -1,5 +1,5 @@
 ---
-description: Plan and execute a full marketing campaign. Accepts a product brief and returns positioning, landing page copy, email sequence, social posts, ad variants, video scripts, and a content calendar. Can also review existing copy for conversion quality.
+description: "策划并执行完整营销活动。接受产品简报，返回定位、落地页文案、邮件序列、社交帖子、广告变体、视频脚本与内容日历；也可评审现有文案的转化质量。"
 allowed-tools: ["Read", "Grep", "Glob", "WebSearch", "WebFetch", "Write"]
 ---
 

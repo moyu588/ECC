@@ -1,6 +1,6 @@
 ---
 name: latency-critical-systems
-description: Use for latency-sensitive systems such as realtime dashboards, market data, streaming agents, execution gateways, queues, caches, or HFT-like infrastructure where freshness and p95 latency matter. Use when p95 latency or data freshness matters — realtime dashboards, market data, streaming agents, queues, or caches.
+description: "用于延迟敏感系统：实时仪表盘、行情数据、流式 agent、执行网关、队列、缓存或类 HFT 基础设施——数据新鲜度与 p95 延迟至关重要的场景。"
 license: MIT
 metadata:
   origin: ECC

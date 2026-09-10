@@ -1,5 +1,5 @@
 ---
-description: Execute a multi-model implementation plan while preserving Claude as the only filesystem writer.
+description: "执行多模型实现计划，同时保持 Claude 是唯一的文件系统写入者。"
 ---
 
 # Execute - Multi-Model Collaborative Execution

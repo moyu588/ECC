@@ -1,5 +1,5 @@
 ---
-description: Comprehensive Python code review for PEP 8 compliance, type hints, security, and Pythonic idioms. Invokes the python-reviewer agent.
+description: "全面的 Python 代码评审：PEP 8 合规、类型注解、安全与 Pythonic 惯用法。调用 python-reviewer agent。"
 ---
 
 # Python Code Review
